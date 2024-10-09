@@ -136,19 +136,19 @@ loem loem loem loem loem loem loem loem loem loem loem loem loem loem loem loem 
 
   <tr width="500px" align="center">
   <td valign="text-top">
-<p width="500px" align="center"><a href="https://github.com/TottAditS/Terbang">Github Page</p>
+<p width="500px" align="center"><a href="https://github.com/TottAditS/Karantin">Github Page</p>
   </td>
   <td valign="text-top">
-<p width="500px" align="center"><a href="https://github.com/TottAditS/TOADS-3D">Github Page</p>
+<p width="500px" align="center"><a href="https://github.com/TottAditS/KnightsNPongs">Github Page</p>
   </td>
   </tr>
  
   <tr width="500px" align="center">
   <td valign="text-top">
-<p width="500px" align="center"><a href="https://tottadits.itch.io/taskforce">Itch Page</p>
+Itch Page
   </td>
   <td valign="text-top">
-Itch Page
+<p width="500px" align="center"><a href="https://tottadits.itch.io/knightnpong">Itch Page</p>
   </td>
   </tr>
 
