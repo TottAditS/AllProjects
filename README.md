@@ -155,53 +155,8 @@ Itch Page
   </tbody>
 </table>
 <!-- ============================================= --><!-- ============================================= --><!-- ============================================= --><!-- ============================================= --><!-- ============================================= --><!-- ============================================= --><!-- ============================================= --><!-- ============================================= --><!-- ============================================= --><!-- ============================================= --><!-- ============================================= --><!-- ============================================= --><!-- ============================================= -->
-<table>
-  <thead>
-    <tr>
-      <th width="500px" align="center">SoloExpedition</th>
-      <th width="500px" align="center">Terbang</th>
-    </tr>
-  </thead>
-  <tbody>
-  <tr width="500px" align="center">
-  <td>
 
-![terbang2](https://github.com/user-attachments/assets/3c22abde-971a-47e2-9040-a5924c270850)
 
-  </td>
-  <td>
 
-![toaddss2](https://github.com/user-attachments/assets/da91cf6e-cf2a-4812-975f-8807fb01c1c3)
 
-  </td>
-  </tr>
-  <tr width="500px">
-  <td valign="text-top">
-loem loem loem loem loem loem loem loem loem loem loem loem loem loem loem loem loem loem loem loem loem loem 
-  </td>
-  <td valign="text-top">
-loem loem loem loem loem loem loem loem loem loem loem loem loem loem loem loem loem loem loem loem loem loem loem loem 
-  </td>
-  </tr>
-
-  <tr width="500px" align="center">
-  <td valign="text-top">
-<p width="500px" align="center"><a href="https://github.com/TottAditS/Terbang">Github Page</p>
-  </td>
-  <td valign="text-top">
-<p width="500px" align="center"><a href="https://github.com/TottAditS/TOADS-3D">Github Page</p>
-  </td>
-  </tr>
- 
-  <tr width="500px" align="center">
-  <td valign="text-top">
-<p width="500px" align="center"><a href="https://tottadits.itch.io/taskforce">Itch Page</p>
-  </td>
-  <td valign="text-top">
-Itch Page
-  </td>
-  </tr>
-
-  </tbody>
-</table>
 <!-- ============================================= --><!-- ============================================= --><!-- ============================================= --><!-- ============================================= --><!-- ============================================= --><!-- ============================================= --><!-- ============================================= --><!-- ============================================= --><!-- ============================================= --><!-- ============================================= --><!-- ============================================= --><!-- ============================================= --><!-- ============================================= -->
