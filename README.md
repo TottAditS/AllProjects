@@ -108,29 +108,29 @@ Itch Page
 <table>
   <thead>
     <tr>
-      <th width="500px" align="center">TaskForce</th>
-      <th width="500px" align="center">TOADS-3D</th>
+      <th width="500px" align="center">Karantin</th>
+      <th width="500px" align="center">KnightNPong</th>
     </tr>
   </thead>
   <tbody>
   <tr width="500px" align="center">
   <td>
 
-![0927-copy](https://github.com/user-attachments/assets/4988a032-071b-4342-be22-9db5a2dda57d)
+![Karantin footeg](https://github.com/user-attachments/assets/9de334a8-f9f9-4998-b84c-99a92292fecb)
 
   </td>
   <td>
 
-![TOADS](https://github.com/user-attachments/assets/8089446a-c111-40b6-91bd-9cd2797ebe96)
+![pong22](https://github.com/user-attachments/assets/fb460e0e-c891-4abd-b556-de34d54519a2)
 
   </td>
   </tr>
   <tr width="500px">
   <td valign="text-top">
-Experience the thrill of high-speed aerial competition in our latest flight simulation game. The core mechanics are designed to highlight the realistic physics of flight, providing an immersive experience that balances entertainment with a showcase of aviation principles. As a solo programmer, technical-level designer, and UI designer, I developed this flight simulation game in 2 weeks."
+loem loem loem loem loem loem loem loem loem loem loem loem loem loem loem loem loem loem loem loem loem loem 
   </td>
   <td valign="text-top">
-TOADS-3D [Prototype] is a 3D Tank Battle Simulator game. Developed in one month, as Game Programmer, I handled all programming, from movement, game mechanics to NavMesh implementation. I also managed the level design for this game.
+loem loem loem loem loem loem loem loem loem loem loem loem loem loem loem loem loem loem loem loem loem loem loem loem 
   </td>
   </tr>
 
@@ -154,3 +154,54 @@ Itch Page
 
   </tbody>
 </table>
+<!-- ============================================= --><!-- ============================================= --><!-- ============================================= --><!-- ============================================= --><!-- ============================================= --><!-- ============================================= --><!-- ============================================= --><!-- ============================================= --><!-- ============================================= --><!-- ============================================= --><!-- ============================================= --><!-- ============================================= --><!-- ============================================= -->
+<table>
+  <thead>
+    <tr>
+      <th width="500px" align="center">SoloExpedition</th>
+      <th width="500px" align="center">Terbang</th>
+    </tr>
+  </thead>
+  <tbody>
+  <tr width="500px" align="center">
+  <td>
+
+![terbang2](https://github.com/user-attachments/assets/3c22abde-971a-47e2-9040-a5924c270850)
+
+  </td>
+  <td>
+
+![toaddss2](https://github.com/user-attachments/assets/da91cf6e-cf2a-4812-975f-8807fb01c1c3)
+
+  </td>
+  </tr>
+  <tr width="500px">
+  <td valign="text-top">
+loem loem loem loem loem loem loem loem loem loem loem loem loem loem loem loem loem loem loem loem loem loem 
+  </td>
+  <td valign="text-top">
+loem loem loem loem loem loem loem loem loem loem loem loem loem loem loem loem loem loem loem loem loem loem loem loem 
+  </td>
+  </tr>
+
+  <tr width="500px" align="center">
+  <td valign="text-top">
+<p width="500px" align="center"><a href="https://github.com/TottAditS/Terbang">Github Page</p>
+  </td>
+  <td valign="text-top">
+<p width="500px" align="center"><a href="https://github.com/TottAditS/TOADS-3D">Github Page</p>
+  </td>
+  </tr>
+ 
+  <tr width="500px" align="center">
+  <td valign="text-top">
+<p width="500px" align="center"><a href="https://tottadits.itch.io/taskforce">Itch Page</p>
+  </td>
+  <td valign="text-top">
+Itch Page
+  </td>
+  </tr>
+
+  </tbody>
+</table>
+<!-- ============================================= --><!-- ============================================= --><!-- ============================================= --><!-- ============================================= --><!-- ============================================= --><!-- ============================================= --><!-- ============================================= --><!-- ============================================= --><!-- ============================================= --><!-- ============================================= --><!-- ============================================= --><!-- ============================================= --><!-- ============================================= -->
