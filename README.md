@@ -130,7 +130,7 @@ Itch Page
 loem loem loem loem loem loem loem loem loem loem loem loem loem loem loem loem loem loem loem loem loem loem 
   </td>
   <td valign="text-top">
-loem loem loem loem loem loem loem loem loem loem loem loem loem loem loem loem loem loem loem loem loem loem loem loem 
+The core mechanics are similar to traditional Pong, allowing players to move vertically and intercept the ball. However, instead of a conventional scoring system, I implemented a health bar mechanic. Each time a player misses the ball, their health bar decreases, and the first to reach zero loses the game. This project helped me deepen my understanding of Unity’s 2D physics, game loop management, and coding best practices, further enhancing my development skills, Developed this game in 1 weeks, as programmer.
   </td>
   </tr>
 
