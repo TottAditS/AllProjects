@@ -102,7 +102,7 @@ TOADS-3D [Prototype] is a 3D Tank Battle Simulator game. Developed in one month,
 <p width="500px" align="center"><a href="https://tottadits.itch.io/taskforce">Itch Page</p>
   </td>
   <td valign="text-top">
-Itch Page
+<p width="500px" align="center"><a href="https://tottadits.itch.io/toads">Itch Page</p>
   </td>
   </tr>
 
@@ -149,7 +149,7 @@ The core mechanics are similar to traditional Pong, allowing players to move ver
  
   <tr width="500px" align="center">
   <td valign="text-top">
-Itch Page
+<p width="500px" align="center"><a href="https://tottadits.itch.io/karantin">Itch Page</p>
   </td>
   <td valign="text-top">
 <p width="500px" align="center"><a href="https://tottadits.itch.io/knightnpong">Itch Page</p>
