@@ -15,12 +15,14 @@
   <tr width="500px" align="center">
   <td>
 
-![agentzero](https://github.com/user-attachments/assets/ef3e0156-115e-40af-8173-5c0a27765fd2)
+![agentz-ezgif com-optimize](https://github.com/user-attachments/assets/8583c9e2-dbbf-44c4-8d22-0a0b1ead0f9f)
+
 
   </td>
   <td>
 
-![deterpath2](https://github.com/user-attachments/assets/eb847aa5-584a-45d4-aa9f-5444eab83df3)
+![deterpat-ezgif com-optimize](https://github.com/user-attachments/assets/b3bcc12a-8e54-4389-97a6-7c57c8146777)
+
 
   </td>
   </tr>
@@ -66,12 +68,14 @@ Determined Path is a simulation game bus driver navigating daily challenges whil
   <tr width="500px" align="center">
   <td>
 
-![0927-copy](https://github.com/user-attachments/assets/4988a032-071b-4342-be22-9db5a2dda57d)
+![taskfor-ezgif com-optimize](https://github.com/user-attachments/assets/9e7985af-a993-42e9-8162-adb7c0333271)
+
 
   </td>
   <td>
 
-![TOADS](https://github.com/user-attachments/assets/8089446a-c111-40b6-91bd-9cd2797ebe96)
+![tods-ezgif com-optimize](https://github.com/user-attachments/assets/22f1d2ea-01ae-4308-b7bd-c627f6ef7120)
+
 
   </td>
   </tr>
@@ -116,12 +120,12 @@ Itch Page
   <tr width="500px" align="center">
   <td>
 
-![Karantin footeg](https://github.com/user-attachments/assets/9de334a8-f9f9-4998-b84c-99a92292fecb)
+![karantin-ezgif com-optimize](https://github.com/user-attachments/assets/750988af-f0ab-45d8-9bb9-a350881329eb)
 
   </td>
   <td>
 
-![pong22](https://github.com/user-attachments/assets/fb460e0e-c891-4abd-b556-de34d54519a2)
+![pong-ezgif com-optimize](https://github.com/user-attachments/assets/3eac42d4-176a-46b8-b891-23f68e6e7367)
 
   </td>
   </tr>
