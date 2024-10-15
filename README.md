@@ -28,10 +28,10 @@
   </tr>
   <tr width="500px">
   <td valign="text-top">
-Agent Zero is a 2D platformer for PC that simulates floods and educates players about their causes, like improper waste disposal. Players must avoid flood obstacles and collect trash. The game ends if all trash is collected without a flood, or if a flood occurs and the player loses. As the Lead Programmer, I developed this game in two weeks.
+<p align="justify">Agent Zero is a 2D platformer for PC that simulates floods and educates players about their causes, like improper waste disposal. Players must avoid flood obstacles and collect trash. The game ends if all trash is collected without a flood, or if a flood occurs and the player loses. As the Lead Programmer, I developed this game in two weeks.</p>
   </td>
   <td valign="text-top">
-Determined Path is a simulation game bus driver navigating daily challenges while ensuring passenger safety and road etiquette, highlighting the importance of safety and adherence to traffic laws. Developed in one and a half month, I served as the lead programmer and level designer, managing vehicle movement, game mechanics, AI implementation.
+<p align="justify">Determined Path is a simulation game bus driver navigating daily challenges while ensuring passenger safety and road etiquette, highlighting the importance of safety and adherence to traffic laws. Developed in one and a half month, I served as the lead programmer and level designer, managing vehicle movement, game mechanics, AI implementation.</p>
   </td>
   </tr>
 
@@ -81,10 +81,10 @@ Determined Path is a simulation game bus driver navigating daily challenges whil
   </tr>
   <tr width="500px">
   <td valign="text-top">
-Experience the thrill of high-speed aerial competition in our latest flight simulation game. The core mechanics are designed to highlight the realistic physics of flight, providing an immersive experience that balances entertainment with a showcase of aviation principles. As a solo programmer, technical-level designer, and UI designer, I developed this flight simulation game in 2 weeks.
+<p align="justify">Experience the thrill of high-speed aerial competition in our latest flight simulation game. The core mechanics are designed to highlight the realistic physics of flight, providing an immersive experience that balances entertainment with a showcase of aviation principles. As a solo programmer, technical-level designer, and UI designer, I developed this flight simulation game in 2 weeks.</p>
   </td>
   <td valign="text-top">
-TOADS-3D [Prototype] is a 3D Tank Battle Simulator game. Developed in one month, as Game Programmer, I handled all programming, from movement, game mechanics to NavMesh implementation. I also managed the level design for this game.
+<p align="justify">TOADS-3D [Prototype] is a 3D Tank Battle Simulator game. Developed in one month, as Game Programmer, I handled all programming, from movement, game mechanics to NavMesh implementation. I also managed the level design for this game.</p>
   </td>
   </tr>
 
@@ -131,10 +131,10 @@ TOADS-3D [Prototype] is a 3D Tank Battle Simulator game. Developed in one month,
   </tr>
   <tr width="500px">
   <td valign="text-top">
-Karantin is a 3D FPS survival game currently in development, where players must survive against waves of enemies while awaiting reinforcements. As the programmer, I am actively involved in designing the gameplay mechanics and optimizing performance. Development has been ongoing for 2 weeks, and I am continually refining various systems to enhance the player experience.
+<p align="justify">Karantin is a 3D FPS survival game currently in development, where players must survive against waves of enemies while awaiting reinforcements. As the programmer, I am actively involved in designing the gameplay mechanics and optimizing performance. Development has been ongoing for 2 weeks, and I am continually refining various systems to enhance the player experience.</p>
   </td>
   <td valign="text-top">
-The core mechanics are similar to traditional Pong, allowing players to move vertically and intercept the ball. However, instead of a conventional scoring system, I implemented a health bar mechanic. Each time a player misses the ball, their health bar decreases, and the first to reach zero loses the game. This project helped me deepen my understanding of Unity’s 2D physics, game loop management, and coding best practices, further enhancing my development skills, Developed this game in 1 weeks, as programmer.
+<p align="justify">The core mechanics are similar to traditional Pong, allowing players to move vertically and intercept the ball. However, instead of a conventional scoring system, I implemented a health bar mechanic. Each time a player misses the ball, their health bar decreases, and the first to reach zero loses the game. This project helped me deepen my understanding of Unity’s 2D physics, game loop management, and coding best practices, further enhancing my development skills, Developed this game in 1 weeks, as programmer.</p>
   </td>
   </tr>
 
