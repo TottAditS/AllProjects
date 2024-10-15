@@ -195,10 +195,10 @@
 
   <tr width="500px" align="center">
   <td valign="text-top">
-<p width="500px" align="center">Github Page</p>
+<p width="500px" align="center"><a href="https://github.com/TottAditS/SkyHigh">Github Page</p>
   </td>
   <td valign="text-top">
-<p width="500px" align="center">Github Page</p>
+<p width="500px" align="center"><a href="https://github.com/TottAditS/AgentZero-TrashFight">Github Page</p>
   </td>
   </tr>
  
