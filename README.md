@@ -1,8 +1,7 @@
 <h2>My Skills</h2>
 <p align="justify">"Game Programmer specializing in Character Behaviors, NavMesh Implementation, and Unity Optimization, I excel in creating immersive gameplay experiences and fine-tuning game environments for peak performance. I am currently expanding my expertise in Unity Multiplayer using Netcode for GameObject, as well as exploring Unity HDRP Optimization to enhance visual quality and performance."</p>
   
-<h2>My Projects</h2> 
-
+<h2>Polishing Projects</h2>
 <!-- ============================================= --><!-- ============================================= --><!-- ============================================= --><!-- ============================================= --><!-- ============================================= --><!-- ============================================= --><!-- ============================================= --><!-- ============================================= --><!-- ============================================= --><!-- ============================================= -->
 <table>
   <thead>
@@ -108,6 +107,8 @@
 
   </tbody>
 </table>
+
+<h2>Prototype Complete Projects</h2>
 <!-- ============================================= --><!-- ============================================= --><!-- ============================================= --><!-- ============================================= --><!-- ============================================= --><!-- ============================================= --><!-- ============================================= --><!-- ============================================= --><!-- ============================================= --><!-- ============================================= --><!-- ============================================= --><!-- ============================================= --><!-- ============================================= -->
 <table>
   <thead>
@@ -153,6 +154,60 @@
   </td>
   <td valign="text-top">
 <p width="500px" align="center"><a href="https://tottadits.itch.io/knightnpong">Itch Page</p>
+  </td>
+  </tr>
+
+  </tbody>
+</table>
+<!-- ============================================= --><!-- ============================================= --><!-- ============================================= --><!-- ============================================= --><!-- ============================================= --><!-- ============================================= --><!-- ============================================= --><!-- ============================================= --><!-- ============================================= --><!-- ============================================= --><!-- ============================================= --><!-- ============================================= --><!-- ============================================= -->
+
+
+<h2>Early Development Projects</h2>
+<!-- ============================================= --><!-- ============================================= --><!-- ============================================= --><!-- ============================================= --><!-- ============================================= --><!-- ============================================= --><!-- ============================================= --><!-- ============================================= --><!-- ============================================= --><!-- ============================================= --><!-- ============================================= --><!-- ============================================= --><!-- ============================================= -->
+<table>
+  <thead>
+    <tr>
+      <th width="500px" align="center">SkyHigh</th>
+      <th width="500px" align="center">AgentZero-TrashFight</th>
+    </tr>
+  </thead>
+  <tbody>
+  <tr width="500px" align="center">
+  <td>
+
+![HDRP Optimization n Environment Processing](https://github.com/user-attachments/assets/1f35c4de-459e-43ed-a88a-e5c8fbe19aba)
+
+  </td>
+  <td>
+
+
+
+  </td>
+  </tr>
+  <tr width="500px">
+  <td valign="text-top">
+<p align="justify">This project was developed to simulate real-world realism using Unity's 3D High Definition Render Pipeline (HDRP), focusing on advanced lighting, shadows, and reflections to achieve high-quality visuals. The primary goal is to explore and implement features such as realistic materials, detailed environmental effects, and dynamic lighting systems. These features allow for a deeper immersion in virtual environments and showcase the visual capabilities of Unity HDRP.</p>
+  </td>
+  <td valign="text-top">
+<p align="justify">No Description</p>
+  </td>
+  </tr>
+
+  <tr width="500px" align="center">
+  <td valign="text-top">
+<p width="500px" align="center">Github Page</p>
+  </td>
+  <td valign="text-top">
+<p width="500px" align="center">Github Page</p>
+  </td>
+  </tr>
+ 
+  <tr width="500px" align="center">
+  <td valign="text-top">
+<p width="500px" align="center">Itch Page</p>
+  </td>
+  <td valign="text-top">
+<p width="500px" align="center">Itch Page</p>
   </td>
   </tr>
 
