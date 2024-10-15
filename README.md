@@ -160,7 +160,7 @@
 </table>
 <!-- ============================================= --><!-- ============================================= --><!-- ============================================= --><!-- ============================================= --><!-- ============================================= --><!-- ============================================= --><!-- ============================================= --><!-- ============================================= --><!-- ============================================= --><!-- ============================================= --><!-- ============================================= --><!-- ============================================= --><!-- ============================================= -->
 
-# About This Repository
+<h2>About This Repository</h2>
 <p align="justify">This repository serves as a showcase for all of my projects. Unlike the main repository, which highlights my top four projects, this one features every project I've worked on, spanning various roles such as programmer, level designer, technical programmer, UI/UX artist, 3D modeling. It showcases my skills and experience in Game Development Aspects</p>
 
 
