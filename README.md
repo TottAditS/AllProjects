@@ -73,8 +73,7 @@
   </td>
   <td>
 
-![tods-ezgif com-optimize](https://github.com/user-attachments/assets/22f1d2ea-01ae-4308-b7bd-c627f6ef7120)
-
+![toads v2gif](https://github.com/user-attachments/assets/19aab0a0-593a-4dd5-8f8a-40ba90ff27b1)
 
   </td>
   </tr>
