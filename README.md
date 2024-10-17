@@ -242,7 +242,7 @@
 <p align="justify">Trashure is a 3D Multiplayer Casual Party Game. Managing and processing trash has been a challenge throughout the world. Alone or with friends, help the world by managing things in Trashure factory. Work together, avoid disaster, and most importantly process all the trash for customer.</p>
   </td>
   <td valign="text-top">
-<p align="justify">In a world ravaged by darkness and plagued by monstrous creatures, a young knight named Rusdi emerges as the last hope for humanity. Armed with a legendary sword forged from the purest light, Rusdi must embark on a perilous journey to defeat the evil creatures who has cast a shadow over the kingdom. speed.</p>
+<p align="justify">Chronovore is a 3D hack-and-slash action RPG where time is your only life force. As time constantly ticks down, players must fight through hordes of enemies to reclaim the precious seconds needed to survive. Every hit, kill, and combo adds time, but with each mistake, time slips away. The player wields the unique power to stop time for brief moments, gaining an edge in combat or evading death—but using this power comes at the cost of your remaining life. Set in a peaceful, yet monstrous world, Chronovore challenges you to manage your time and skillfully battle through a relentless struggle for survival.</p>
   </td>
   </tr>
 
