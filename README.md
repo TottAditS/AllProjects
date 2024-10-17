@@ -1,4 +1,4 @@
-![trashur](https://github.com/user-attachments/assets/9dc08e65-2ccd-446a-9004-58eceda39747)<h2>My Skills</h2>
+<h2>My Skills</h2>
 <p align="justify">"Game Programmer specializing in Character Behaviors, NavMesh Implementation, and Unity Optimization, I excel in creating immersive gameplay experiences and fine-tuning game environments for peak performance. I am currently expanding my expertise in Unity Multiplayer using Netcode for GameObject, as well as exploring Unity HDRP Optimization to enhance visual quality and performance."</p>
   
 <h2>Polishing Projects</h2>
