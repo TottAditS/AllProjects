@@ -1,4 +1,4 @@
-<h2>My Skills</h2>
+![trashur](https://github.com/user-attachments/assets/9dc08e65-2ccd-446a-9004-58eceda39747)<h2>My Skills</h2>
 <p align="justify">"Game Programmer specializing in Character Behaviors, NavMesh Implementation, and Unity Optimization, I excel in creating immersive gameplay experiences and fine-tuning game environments for peak performance. I am currently expanding my expertise in Unity Multiplayer using Netcode for GameObject, as well as exploring Unity HDRP Optimization to enhance visual quality and performance."</p>
   
 <h2>Polishing Projects</h2>
@@ -218,4 +218,56 @@
 <p align="justify">This repository serves as a showcase for all of my projects. Unlike the main repository, which highlights my top four projects, this one features every project I've worked on, spanning various roles such as programmer, level designer, technical programmer, UI/UX artist, 3D modeling. It showcases my skills and experience in Game Development Aspects</p>
 
 
+<h2>Cross-Functional Collaboration Projects</h2>
+<!-- ============================================= --><!-- ============================================= --><!-- ============================================= --><!-- ============================================= --><!-- ============================================= --><!-- ============================================= --><!-- ============================================= --><!-- ============================================= --><!-- ============================================= --><!-- ============================================= --><!-- ============================================= --><!-- ============================================= --><!-- ============================================= -->
+
+<table>
+  <thead>
+    <tr>
+      <th width="500px" align="center">Trashure</th>
+      <th width="500px" align="center">Chronovore</th>
+    </tr>
+  </thead>
+  <tbody>
+  <tr width="500px" align="center">
+  <td>
+
+![trashur](https://github.com/user-attachments/assets/4aa5d99b-60b1-4a09-b604-3ae9c7dff149)
+
+  </td>
+  <td>
+
+![whitelegend](https://github.com/user-attachments/assets/74d25f46-f24e-49e0-980a-f3c4e63b136e)
+
+  </td>
+  </tr>
+  <tr width="500px">
+  <td valign="text-top">
+<p align="justify">Trashure is a 3D Multiplayer Casual Party Game. Managing and processing trash has been a challenge throughout the world. Alone or with friends, help the world by managing things in Trashure factory. Work together, avoid disaster, and most importantly process all the trash for customer.</p>
+  </td>
+  <td valign="text-top">
+<p align="justify">In a world ravaged by darkness and plagued by monstrous creatures, a young knight named Rusdi emerges as the last hope for humanity. Armed with a legendary sword forged from the purest light, Rusdi must embark on a perilous journey to defeat the evil creatures who has cast a shadow over the kingdom. speed.</p>
+  </td>
+  </tr>
+
+  <tr width="500px" align="center">
+  <td valign="text-top">
+<p width="500px" align="center"><a href="https://github.com/Gramonesk/Treasure">Github Page</p>
+  </td>
+  <td valign="text-top">
+<p width="500px" align="center"><a href="https://github.com/TottAditS/Chronovore-Public">Github Page</p>
+  </td>
+  </tr>
+ 
+  <tr width="500px" align="center">
+  <td valign="text-top">
+<p width="500px" align="center">Itch Page</p>
+  </td>
+  <td valign="text-top">
+<p width="500px" align="center">Itch Page</p>
+  </td>
+  </tr>
+
+  </tbody>
+</table>
 <!-- ============================================= --><!-- ============================================= --><!-- ============================================= --><!-- ============================================= --><!-- ============================================= --><!-- ============================================= --><!-- ============================================= --><!-- ============================================= --><!-- ============================================= --><!-- ============================================= --><!-- ============================================= --><!-- ============================================= --><!-- ============================================= -->
